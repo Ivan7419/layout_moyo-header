@@ -43,10 +43,6 @@ a {
   display: inline-block;
 }
 
-/* .nav-link {
-  margin: 0 10px;
-} */
-
 a:hover {
   color: #00acdc;
 }
