@@ -1,12 +1,7 @@
-* {
-  margin: 0;
-}
-
 body {
   margin: 0;
   font-size: 12px;
-  /* stylelint-disable-next-line font-family-name-quotes */
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto, sans-serif;
 }
 
 :root {
@@ -39,7 +34,7 @@ nav {
   padding: 0;
 }
 
-a {
+.link {
   text-decoration: none;
   color: black;
   height: 60px;
@@ -48,7 +43,7 @@ a {
   text-transform: uppercase;
 }
 
-a:hover {
+.link:hover {
   color: var(--primary-color);
 }
 
